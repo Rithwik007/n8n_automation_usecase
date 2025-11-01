@@ -2,6 +2,11 @@
 ### 🤖 Powered by n8n + Google Gemini + Google Sheets + WhatsApp API
 
 ---
+### 🧾 Presentation (PPT)
+📊 **View the complete presentation here:**  
+[RR Restaurant WhatsApp AI Assistant – PPT](https://docs.google.com/presentation/d/1Sc66XvpsTBq1GzscD249lIoYDBbf-61h/edit?usp=sharing&ouid=113049746936695823016&rtpof=true&sd=true)
+
+---
 
 ## 📘 Overview
 
@@ -81,12 +86,16 @@ Google Sheet: [Food Delivery System](https://docs.google.com/spreadsheets/d/1DoA
 - Body: `{{ $json.output }}`
 
 ---
+### 🎥 Project Execution Video
+ 
+🔗 [Click here to watch execution video](https://drive.google.com/file/d/1SKHRt6jbnt4uqcLkPdjqR0QtiA4KodwW/view?usp=sharing)
+
+---
 
 
+## 🧭 Importing the Workflow into N8n
 
-## 🧭 Importing the Workflow into Natn
-
-You can easily import and visualize this automation inside **Natn** (the no-code AI workflow builder).
+You can easily import and visualize this automation inside **N8n** (the no-code AI workflow builder).
 
 ### 🪄 Steps:
 
@@ -117,6 +126,21 @@ You can easily import and visualize this automation inside **Natn** (the no-code
    - Click **“Publish”** or **“Deploy”** in Natn to make the workflow active and connect it to your real webhook or automation trigger.
 
 ---
+
+### ✅ Screenshots
+1. **Flow**
+
+<img width="885" height="422" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/018d7ee0-84a7-4f1c-aa45-d6feb9134680" />
+
+2. **Chat**
+
+<img width="1043" height="685" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/d4af3cd7-86aa-4713-bb70-c56f78c978b3" />
+
+3. **Orders**
+
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/f59ca273-679d-4136-b831-b1dc08285553" />
+
+
 
 ### ✅ Example Result in Natn
 
